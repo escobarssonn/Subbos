@@ -56,11 +56,11 @@ data:[
 {id:1,nama:'PRO',icon:'twitter'},
 {id:1,nama:'PERFORMANCE',icon:'whatsapp'},]
 },
-https://www.youtube.com/watch?v=OAxXqn0R1zA
+
 features:{
 id:'features',
 css:'col-1-3',
-data:[{id:1,img:1,nama:'BASIC',gambar:'img/figure-01.png',icon:'camera'},
+data:[{id:1,img:1,nama:'BASIC',gambar:https://www.youtube.com/watch?v=OAxXqn0R1zA
 {id:1,img:0,nama:'PRO',gambar:'img/figure-02.png',icon:'whatsapp'},
 {id:1,img:1,nama:'PERFORMANCE',gambar:'img/figure-05.png',icon:'facebook'},
 ]
