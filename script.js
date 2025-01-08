@@ -82,7 +82,7 @@ portofolio:{
 id:'portofolio',
 css:'col-1-3',
 data:[{id:1,nama:'1',gambar:'img/photo-01.jpg'},
-{id:2,nama:'2',gambar:'img/photo-02.jpg'},
+{id:2,nama:'2',gambar:'https://youtu.be/RaPHD7l6Fbw?si=VBwLCqdxc5aH4zU4'},
 {id:3,nama:'3',gambar:'img/photo-03.jpg'},
 {id:4,nama:'4',gambar:'img/photo-04.jpg'},
 {id:5,nama:'5',gambar:'img/photo-05.jpg'},
